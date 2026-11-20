@@ -1,0 +1,26 @@
+{
+  "name": "LIFE-OS — Système d'Exploitation Personnel",
+  "short_name": "LIFE-OS",
+  "description": "Application offline-first complète de pilotage personnel : tâches, planning intelligent, focus, BTS OL, ORPAZ-STYLE, Torah, vie personnelle, CRM hybride et statistiques.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070d1b",
+  "theme_color": "#06b6d4",
+  "orientation": "any",
+  "lang": "fr-FR",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%23070d1b'/%3E%3Ccircle cx='96' cy='96' r='58' fill='none' stroke='%2306b6d4' stroke-width='12'/%3E%3Cpath d='M76 96 L91 111 L118 82' fill='none' stroke='%2322d3ee' stroke-width='12' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='108' fill='%23070d1b'/%3E%3Ccircle cx='256' cy='256' r='154' fill='none' stroke='%2306b6d4' stroke-width='28'/%3E%3Cpath d='M202 256 L242 296 L314 218' fill='none' stroke='%2322d3ee' stroke-width='28' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
